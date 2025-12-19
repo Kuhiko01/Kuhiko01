@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=75&fontAlignY=74&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
 <div align="center">
   <img 
     src="https://count.getloli.com/@:Kuhiko01?theme=booru-jaypee&padding=7&scale=0.6&align=top&pixelated=1&darkmode=auto"
