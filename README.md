@@ -8,8 +8,13 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxiZ2x2aGdhamhiZnpkcWxnbTh4bGh6Y2g4ZXd0eTRnZWhyYnl5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" />
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxiZ2x2aGdhamhiZnpkcWxnbTh4bGh6Y2g4ZXd0eTRnZWhyYnl5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"
+    width="400"
+    alt="gif"
+  />
 </p>
+
 
 ##
 
