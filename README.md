@@ -41,3 +41,5 @@
 <img src="https://raw.githubusercontent.com/Kuhiko01/Kuhiko01/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fre433557tqxk35q7aliy4bwq4)
