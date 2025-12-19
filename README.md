@@ -41,5 +41,7 @@
 
 <img src="https://raw.githubusercontent.com/Kuhiko01/Kuhiko01/output/snake.svg" alt="Snake animation" />
 
-###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=75&fontAlignY=74&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
