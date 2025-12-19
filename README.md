@@ -11,12 +11,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd3ZHZmd2RpamFydGVoZ205am56ZjdwbjdzOGRoNHpidnl1NGgxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tk1Kd0a22yEgLxQpv1/giphy.gif" />
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/7XBJGVvYSBM?si=24129wa4huYZ0AVH">
-    <img src="./image/wave.png" width="50" alt="Music" />
-  </a>
-</p>
-
 ##
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
