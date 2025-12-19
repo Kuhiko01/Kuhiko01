@@ -2,7 +2,11 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJxbmRudGdiZDYwOTljMmhjd2F2dnJtcXdzaGRwMHdnaDU4cXE2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PqTcO444vDj2/giphy.gif" />
 </p>
 
-
+<p align="center">
+  <a href="https://youtu.be/7XBJGVvYSBM?si=24129wa4huYZ0AVH">
+    <img src="./image/player.png" width="60" alt="Music" />
+  </a>
+</p>
 
 
 <!--
