@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://count.getloli.com/@:Kuhiko01?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
 ##
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -42,6 +46,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://open.spotify.com/intl-id/track/5hkQFKFRrr5gKdbbxsg6Lj?si=c4127c720a944ab9?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
