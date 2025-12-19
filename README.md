@@ -1,3 +1,12 @@
+<div align="center">
+  <img 
+    src="https://count.getloli.com/@:Kuhiko01?theme=booru-jaypee&padding=7&scale=0.6&align=top&pixelated=1&darkmode=auto"
+    style="max-width: 800px;"
+    alt="visitor counter"
+  />
+</div>
+
+
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJxbmRudGdiZDYwOTljMmhjd2F2dnJtcXdzaGRwMHdnaDU4cXE2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PqTcO444vDj2/giphy.gif" />
 </p>
@@ -7,10 +16,6 @@
     <img src="./image/wave.png" width="50" alt="Music" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://count.getloli.com/@:Kuhiko01?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
 ##
 
