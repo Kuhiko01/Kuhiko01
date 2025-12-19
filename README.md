@@ -42,8 +42,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kuhiko01/Kuhiko01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kuhiko01/Kuhiko01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kuhiko01/Kuhiko01/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://open.spotify.com/intl-id/track/5hkQFKFRrr5gKdbbxsg6Lj?si=c4127c720a944ab9?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
+</div>
