@@ -42,4 +42,8 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fre433557tqxk35q7aliy4bwq4)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kuhiko01/Kuhiko01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kuhiko01/Kuhiko01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kuhiko01/Kuhiko01/output/pacman-contribution-graph.svg">
+</picture>
