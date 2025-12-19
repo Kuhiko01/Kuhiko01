@@ -1,4 +1,6 @@
-## Hi there 👋
+![donkey kong](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJxbmRudGdiZDYwOTljMmhjd2F2dnJtcXdzaGRwMHdnaDU4cXE2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PqTcO444vDj2/giphy.gif)
+
+
 
 <!--
 **Kuhiko01/Kuhiko01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
