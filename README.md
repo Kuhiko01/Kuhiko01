@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Kuhiko01"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Kuhiko01-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/4why.1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/4why.1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-4why.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ## About Me
