@@ -1,69 +1,76 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Radii",
+    "username": "Kuhiko01",
+    "headline": "Student & Aspiring Developer",
+    "affiliation": "UPN JATIM",
+    "location": "SURABAYA",
+    "status": "Learning",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
+      "I'm a student passionate about learning software development and building useful projects.",
       "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Web Development",
+    "direction": "Full-stack web development",
+    "themes": "Frontend / Backend / Database",
+    "narrative": "I enjoy building complete web solutions, from frontend design to backend logic and data management."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Frontend Development",
+      "description": "Building responsive and interactive user interfaces using HTML, CSS, and JavaScript"
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Backend Development",
+      "description": "Building server-side logic, APIs, and managing databases to support web applications"
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "UI/UX",
+      "description": "Designing clean and intuitive user interfaces that are easy and enjoyable to use"
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Sistem Pegawai",
+      "url": "https://github.com/Kuhiko01/website_sisitem_pegawai_ujikom",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Employee Data Management System",
+      "summary": "A web application for managing employee data digitally, including attendance, work schedules, and staff information, to make administrative processes more organized and efficient.",
+      "heroLabel": "Ujikom Project"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Website CAH ANGON",
+      "url": "https://github.com/Kuhiko01/Website_CAH-ANGON",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Landing Page",
+      "summary": "A landing page introducing the CAH ANGON community, featuring information about its activities and members.",
+      "heroLabel": "CAH ANGON"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "MySQL"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "Kuhiko01",
+      "url": "https://github.com/Kuhiko01",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "Instagram",
+      "value": "Instagram",
+      "url": "https://www.instagram.com/4why.1/",
+      "logo": "instagram",
+      "color": "E4405F"
     }
   ],
   "activity": {
@@ -73,5 +80,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Always learning and building something new."
 }
